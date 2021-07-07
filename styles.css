@@ -79,7 +79,7 @@ li a.link:hover {
 .intro-hero {
   background-image: url("./images/hero-background.jpg");
   background-size: cover;
-  background-attachment: fixed;
+  background-position: fixed;
   width: 100%;
   height: calc(100vh - 60px);
   display: flex;
